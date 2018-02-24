@@ -4,6 +4,3 @@ linea 3
 
 linea 5
 
-
-
-linea 9
